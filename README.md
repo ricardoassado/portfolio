@@ -1,5 +1,5 @@
 <!--Header Name-->
-# Listado de proyectos
+# Lista de Proyectos
 <br /> 
 
 <!--Start Intro-->               
