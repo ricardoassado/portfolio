@@ -11,7 +11,7 @@
 - 👨🏻‍💼 [Enaeg](https://enaeg.edu.pe/)
 - 📊 [Corpat](https://corpat.pe/)
 - 🏢 [GB arq](https://gbarq.com/)
-- 🏩 [Orden Hospitalaria](https://ohsanjuandedios.org/)
+- 🏩 [Orden Hospitalaria de San Juan de Dios](https://ohsanjuandedios.org/)
 - 🏩 [Clínica San Juan de Dios](https://sanjuandedios.pe/)
 - 🏩 [Clínica San Juan de Dios Lima](https://clinicalima.sanjuandedios.pe/)
 - 🏩 [Clínica San Juan de Dios Arequipa](https://clinicaarequipa.sanjuandedios.pe/)
